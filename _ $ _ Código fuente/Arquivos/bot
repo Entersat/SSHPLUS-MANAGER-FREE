@@ -2,9 +2,10 @@
 #===================================================
 #   SCRIPT: BOT SSHPLUS MANAGER
 #   DATA ATT: 24 de Jan 2021
-#   DESENVOLVIDO POR: CRAZY_VPN
+#   DESENVOLVIDO POR: Entersat
 #   API SHELLBOT: SHAMAN
-#   CONTATO TELEGRAM: http://t.me/crazy_vpn
+#   CONTATO TELEGRAM: Entel Bolivia
+https://t.me/EntelBolivia
 #   CANAL TELEGRAM: http://t.me/sshplus
 #===================================================
 [[ ! -d /etc/SSHPlus ]] && exit 0
